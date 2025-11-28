@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spoofify/static/css/main.8c445b62.css",
+    "main.js": "/spoofify/static/js/main.4ba0165f.js",
+    "static/js/453.7e12f880.chunk.js": "/spoofify/static/js/453.7e12f880.chunk.js",
+    "index.html": "/spoofify/index.html",
+    "main.8c445b62.css.map": "/spoofify/static/css/main.8c445b62.css.map",
+    "main.4ba0165f.js.map": "/spoofify/static/js/main.4ba0165f.js.map",
+    "453.7e12f880.chunk.js.map": "/spoofify/static/js/453.7e12f880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c445b62.css",
+    "static/js/main.4ba0165f.js"
+  ]
+}
